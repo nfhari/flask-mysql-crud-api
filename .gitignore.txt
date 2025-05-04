@@ -1,0 +1,8 @@
+env/
+env*/
+.Python
+bin/
+Include/
+Lib/
+Scripts/
+pyvenc.cfg
