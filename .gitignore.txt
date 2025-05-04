@@ -1,3 +1,4 @@
+#virtual Environment
 env/
 env*/
 .Python
@@ -6,3 +7,9 @@ Include/
 Lib/
 Scripts/
 pyvenc.cfg
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.pyc
