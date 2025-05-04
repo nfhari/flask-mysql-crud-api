@@ -1,6 +1,6 @@
 #virtual Environment
-env/
-env*/
+venv/
+venv*/
 Include/
 Lib/
 Scripts/
