@@ -1,7 +1,4 @@
 #virtual Environment
-venv/
+.venv*/
 venv*/
-Include/
-Lib/
-Scripts/
-pyvenc.cfg
+
